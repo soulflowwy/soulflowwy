@@ -1,16 +1,29 @@
-## Hi there 👋
+### 👋 Hi, I'm Daniel — QA Engineer
 
-<!--
-**soulflowwy/soulflowwy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+4+ years in backend-heavy systems: fintech, AI-driven compliance, telemedicine, and high-load B2C platforms.  
+Focus on **quality in distributed architectures:** backend, APIs, async flows, messaging, and data consistency.
 
-Here are some ideas to get you started:
+### 🔧 Core Skills & Tools
+- **Backend & Integration Testing:** REST (Postman, Swagger), SOAP (SoapUI)
+- **Async / Data Pipelines:** Kafka, RabbitMQ
+- **Databases:** PostgreSQL (SELECT / JOIN / aggregates), DBeaver
+- **Debug & Observability:** Kibana, Sentry, Charles, DevTools
+- **Web & Mobile Testing:** Chrome DevTools, Firebase App, TestFlight
+- **CI/CD & Teamwork:** GitLab, Confluence, Jira, Zephyr, Scrum
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Work Approach
+- Build **test coverage around real business processes**, not just cases-on-paper
+- Trace issues to the **exact cause** using logs & service-to-service event chains
+- Treat web, mobile, and backend as a **single integrated system**
+
+### ⚙️ Currently Learning
+**Python + Pytest** — building a practical automation layer to speed up regression testing and reinforce critical flows.
+
+### 🌍 Work Preferences
+- Remote-first mindset  
+- English — **C2**
+
+---
+
+> *"Quality for me = consistency + predictability + clarity of process."*
+
