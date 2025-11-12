@@ -29,8 +29,7 @@
 
 <!-- 💾 Matrix Rain SVG (WORKING) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AbhishekSuresh2/AbhishekSuresh2/master/matrix.svg"
-       width="100%" alt="Matrix rain animation">
+  <img src="./matrix.svg" width="100%" alt="Matrix rain animation">
 </p>
 
 ---
@@ -77,8 +76,7 @@ US Green Card holder · English C2
 
 <!-- 💀 Matrix Rain Footer -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AbhishekSuresh2/AbhishekSuresh2/master/matrix.svg"
-       width="100%" alt="Matrix rain footer animation">
+  <img src="./matrix.svg" width="100%" alt="Matrix rain footer animation">
 </p>
 
 <p align="center">
