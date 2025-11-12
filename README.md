@@ -8,7 +8,8 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-@soulflowwy-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/soulflowwy)
 
-<img src="https://i.imgur.com/6n6k2wY.gif" width="100%" alt="Matrix divider">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%" alt="Matrix code animation" />
+
 
 ---
 
