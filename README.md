@@ -16,13 +16,21 @@
   </a>
 </p>
 
+<!-- 🐍 Animated Snake -->
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"
+       width="100%" alt="Matrix snake animation">
+</p>
+
+<!-- 🧠 Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00FF99&width=460&lines=Backend+%2F+Web+%2F+Mobile+Testing;Quality+is+Architecture;Async+Flows+%26+Microservices;CI%2FCD+Integration+and+Observability" alt="Typing SVG" />
 </p>
 
-<!-- MATRIX ANIMATION -->
+<!-- 💾 Matrix Rain -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/files/main/matrix.svg" width="80%" alt="Matrix animation" />
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif"
+       width="100%" alt="Matrix rain animation">
 </p>
 
 ---
@@ -31,20 +39,16 @@
 Worked on **FinTech**, **AI-driven Compliance**, **Telemedicine**, and **high-load B2C platforms** —  
 where correctness, data integrity, and user experience directly impact business results.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF99&height=2&section=footer&animation=fadeIn" width="80%" alt="divider"/>
-</p>
+---
 
 ### 🧩 Focus Areas
-- ⚙️ Backend & API validation (REST/SOAP)
-- 📱 Web & Mobile testing (iOS/Android)
-- 🔄 Microservice integrations, async flows, data consistency
-- 🧪 Regression and end-to-end testing
-- 🚀 CI/CD QA integration and release control
+- Backend & API validation (REST/SOAP)
+- Web & Mobile testing (iOS/Android)
+- Microservice integrations, async flows, data consistency
+- Regression and end-to-end testing
+- CI/CD QA integration and release control
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF99&height=2&section=footer&animation=fadeIn" width="80%" alt="divider"/>
-</p>
+---
 
 ### 💼 Core Skills & Tools
 **Backend & Integration:** Postman, Swagger, SoapUI  
@@ -55,31 +59,29 @@ where correctness, data integrity, and user experience directly impact business 
 **Process & CI/CD:** GitLab CI/CD, Docker, Zephyr, Jira, Confluence, Allure Test Ops, Scrum  
 **Automation (in progress):** Python + Pytest — building automation layer for key regression and integration scenarios  
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF99&height=2&section=footer&animation=fadeIn" width="80%" alt="divider"/>
-</p>
+---
 
 ### 🧠 Work Approach
-- 🧭 Build test coverage around real business flows, not abstract checklists  
-- 🕵️ Trace defects to root causes via logs and cross-service events  
+- 🧩 Build test coverage around real business flows, not abstract checklists  
+- 🕵️‍♂️ Trace defects to root causes via logs and cross-service events  
 - 🌐 Treat backend, web, and mobile as a single integrated ecosystem  
 - ⚖️ Balance reliability, reproducibility, and developer feedback speed  
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF99&height=2&section=footer&animation=fadeIn" width="80%" alt="divider"/>
-</p>
+---
 
 ### 🌎 Work Preferences
 Remote-first mindset · Open to relocation 🇳🇱 🇩🇪 🇬🇧 🇨🇦 🇦🇪  
 US Green Card holder · English C2  
 
+---
+
+<!-- 💀 Matrix Rain Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF99&height=2&section=footer&animation=fadeIn" width="80%" alt="divider"/>
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif"
+       width="100%" alt="Matrix rain footer animation">
 </p>
 
 <p align="center">
-  <i>“Everything is code — quality just makes it visible.”</i>  
+  <i>“Everything is code — quality just makes it visible.”</i><br>
+  <code>$ echo "System stable. All tests passed ✅"</code>
 </p>
-
-```bash
-$ echo "System stable. All tests passed ✅"
