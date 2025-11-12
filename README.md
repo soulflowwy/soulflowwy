@@ -1,105 +1,47 @@
-<!-- 🌐 MATRIX QA PROFILE - soulflowwy -->
+<!-- 🔎 EXPERIENCE SNAPSHOT (glass + neon) -->
+<a id="experience"></a>
+<div align="center"
+     style="background: rgba(0, 0, 0, 0.55);
+            backdrop-filter: blur(4px);
+            border: 1px solid #00FF99;
+            border-radius: 14px;
+            padding: 24px 22px;
+            margin: 22px auto 26px auto;
+            max-width: 860px;">
+  <h3 style="color:#00FF99; margin: 0 0 8px 0; font-weight:700; letter-spacing: .3px;">
+    Experience Snapshot
+  </h3>
 
-<h1 align="center" style="color:#00FF99;">👋 Hi, I'm Danil — <span style="color:#00FF99;">Full-Stack QA Engineer</span></h1>
-
-<p align="center" style="color:#00FF99;">
-  <i>“I see through the interface — I test the system itself.”</i> 🕶️<br>
-  <b>Testing the Matrix for bugs since 2021</b> 👾
-</p>
-
-<p align="center">
-  <a href="https://t.me/soulflowwy">
-    <img src="https://img.shields.io/badge/Telegram-@soulflowwy-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="mailto:reznikovmainz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-reznikovmainz@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<!-- 🐍 Snake animation -->
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"
-       width="100%" alt="Matrix snake animation">
-</p>
-
-<!-- 🧠 Typing animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00FF99&width=460&lines=Backend+%2F+Web+%2F+Mobile+Testing;Quality+is+Architecture;Async+Flows+%26+Microservices;CI%2FCD+Integration+and+Observability" alt="Typing SVG" />
-</p>
-
-<!-- 💾 Matrix Rain SVG -->
-<p align="center">
-  <img src="./matrix.svg" width="100%" alt="Matrix rain animation">
-</p>
-
-<!-- 🌐 Neon Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF99&height=2&section=footer&reversal=true"/>
-</p>
-
-<!-- 🧱 EXPERIENCE BLOCK with glass effect -->
-<div align="center" style="background: rgba(0, 0, 0, 0.55); backdrop-filter: blur(4px); border: 1px solid #00FF99; border-radius: 12px; padding: 24px; margin: 25px 0;">
-  <p style="color:#00FF99; font-size: 16px; line-height: 1.6; text-align:center; max-width: 750px;">
+  <p style="color:#E6FFE6; font-size: 15.5px; line-height: 1.65; margin: 0;">
     4+ years of experience ensuring quality across <b>backend</b>, <b>web</b>, and <b>mobile</b> layers.<br>
     Worked on <b>FinTech</b>, <b>AI-driven Compliance</b>, <b>Telemedicine</b>, and <b>high-load B2C platforms</b> —<br>
     where correctness, data integrity, and user experience directly impact business results.
   </p>
+
+  <hr style="border:none;border-top:1px solid #00FF99; opacity:.35; margin:14px 0 12px 0;">
+
+  <div style="display:grid; grid-template-columns: repeat(auto-fit,minmax(240px,1fr));
+              gap:10px; width:100%; max-width:820px; margin:0 auto;">
+    <div style="border:1px solid rgba(0,255,153,.35); border-radius:10px; padding:10px 12px;">
+      <p style="color:#A9FFCF; margin:0 0 6px 0; font-weight:600;">Backend & API</p>
+      <p style="color:#E6FFE6; margin:0;">REST/SOAP, data contracts, idempotency, error semantics</p>
+    </div>
+    <div style="border:1px solid rgba(0,255,153,.35); border-radius:10px; padding:10px 12px;">
+      <p style="color:#A9FFCF; margin:0 0 6px 0; font-weight:600;">Async Flows</p>
+      <p style="color:#E6FFE6; margin:0;">Kafka, Camunda, consistency checks, saga-like chains</p>
+    </div>
+    <div style="border:1px solid rgba(0,255,153,.35); border-radius:10px; padding:10px 12px;">
+      <p style="color:#A9FFCF; margin:0 0 6px 0; font-weight:600;">Observability</p>
+      <p style="color:#E6FFE6; margin:0;">Kibana, traces/logs, Charles/DevTools, defect root-cause</p>
+    </div>
+    <div style="border:1px solid rgba(0,255,153,.35); border-radius:10px; padding:10px 12px;">
+      <p style="color:#A9FFCF; margin:0 0 6px 0; font-weight:600;">Release Control</p>
+      <p style="color:#E6FFE6; margin:0;">GitLab CI/CD, smoke/regression gates, Python+Pytest (in progress)</p>
+    </div>
+  </div>
 </div>
 
-<p align="center">
+<!-- тонкая неоновая линия для отделения от следующей анимации -->
+<p align="center" style="margin:0 0 8px 0;">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF99&height=2&section=footer&reversal=true"/>
-</p>
-
-### 🧩 <span style="color:#00FF99;">Focus Areas</span>
-- Backend & API validation (REST/SOAP)
-- Web & Mobile testing (iOS/Android)
-- Microservice integrations, async flows, data consistency
-- Regression and end-to-end testing
-- CI/CD QA integration and release control
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF99&height=2&section=footer&reversal=true"/>
-</p>
-
-### 💼 <span style="color:#00FF99;">Core Skills & Tools</span>
-**Backend & Integration:** Postman, Swagger, SoapUI  
-**Async / Messaging:** Kafka, Camunda BPM, RabbitMQ  
-**Databases:** PostgreSQL (SELECT / JOIN / aggregates), DBeaver  
-**Web & Mobile:** Chrome DevTools, Firebase App, TestFlight  
-**Debug & Observability:** Kibana, Sentry, Charles Proxy  
-**Process & CI/CD:** GitLab CI/CD, Docker, Zephyr, Jira, Confluence, Allure Test Ops, Scrum  
-**Automation (in progress):** Python + Pytest — building automation layer for key regression and integration scenarios  
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF99&height=2&section=footer&reversal=true"/>
-</p>
-
-### 🧠 <span style="color:#00FF99;">Work Approach</span>
-- 🧩 Build test coverage around real business flows, not abstract checklists  
-- 🕵️‍♂️ Trace defects to root causes via logs and cross-service events  
-- 🌐 Treat backend, web, and mobile as a single integrated ecosystem  
-- ⚖️ Balance reliability, reproducibility, and developer feedback speed  
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF99&height=2&section=footer&reversal=true"/>
-</p>
-
-### 🌎 <span style="color:#00FF99;">Work Preferences</span>
-Remote-first mindset · Open to relocation 🇳🇱 🇩🇪 🇬🇧 🇨🇦 🇦🇪  
-US Green Card holder · English C2  
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF99&height=2&section=footer&reversal=true"/>
-</p>
-
-<!-- 💀 Matrix Rain Footer -->
-<p align="center">
-  <img src="./matrix.svg" width="100%" alt="Matrix rain footer animation">
-</p>
-
-<p align="center" style="color:#00FF99; font-style: italic;">
-  “Everything is code — quality just makes it visible.”<br><br>
-  <code style="color:#00FF99; background:#000; border:1px solid #00FF99; padding:5px 10px; border-radius:6px;">
-  $ echo "System stable. All tests passed ✅"
-  </code>
 </p>
