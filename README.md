@@ -1,7 +1,7 @@
 <!-- 🌐 MATRIX QA PROFILE - by soulflowwy -->
 
 <!-- ===== HEADER SECTION ===== -->
-👋 Hi, I'm Danil — Full-Stack QA Engineer  
+👋 Hi, I'm Danil — Full-Stack QA Engineer with 4+ years of expirience
 > *“I see through the interface — I test the system itself.”* 🕶️  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF99&width=500&lines=Backend+%2F+Web+%2F+Mobile+Testing;Quality+is+Architecture;Testing+the+Matrix+for+Bugs+👾)](https://git.io/typing-svg)
