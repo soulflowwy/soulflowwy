@@ -1,71 +1,78 @@
----
+<!-- 🌐 MATRIX QA PROFILE - soulflowwy -->
 
-4+ years of experience ensuring quality across **backend**, **web**, and **mobile** layers.  
-Worked on **FinTech**, **AI-driven Compliance**, **Telemedicine**, and **high-load B2C** platforms —  
-where correctness, data integrity, and user experience directly impact business results.
+<h1 align="center">👋 Hi, I'm Danil — <span style="color:#00FF99;">Full-Stack QA Engineer</span></h1>
 
-<!-- subtle divider -->
-<img src="https://github.com/saadeghi/saadeghi/blob/master/dots.svg" width="100%" alt="divider" />
-
-<!-- QUICK METRICS -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-4%2B%20years-00FF99?style=flat" />
-  <img src="https://img.shields.io/badge/English-C2-00FF99?style=flat" />
-  <img src="https://img.shields.io/badge/US%20Work%20Authorization-Green%20Card-00FF99?style=flat" />
-  <img src="https://img.shields.io/badge/Remote-Ready-00FF99?style=flat" />
+  <i>“I see through the interface — I test the system itself.”</i> 🕶️<br>
+  <b>Testing the Matrix for bugs since 2021</b> 👾
+</p>
+
+<p align="center">
+  <a href="https://t.me/soulflowwy">
+    <img src="https://img.shields.io/badge/Telegram-@soulflowwy-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:reznikovmainz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-reznikovmainz@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00FF99&width=460&lines=Backend+%2F+Web+%2F+Mobile+Testing;Quality+is+Architecture;Async+Flows+%26+Microservices;CI%2FCD+Integration+and+Observability" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%" alt="Matrix code animation">
 </p>
 
 ---
 
-## 🧩 Focus Areas & 🎛 Toolbox
+4+ years of experience ensuring quality across **backend**, **web**, and **mobile** layers.  
+Worked on **FinTech**, **AI-driven Compliance**, **Telemedicine**, and **high-load B2C platforms** —  
+where correctness, data integrity, and user experience directly impact business results.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+---
 
-### Focus Areas
-- ✅ Backend & API validation (REST/SOAP)  
-- ✅ Web & Mobile testing (iOS/Android)  
-- ✅ Microservice integrations, async flows, data consistency  
-- ✅ Regression & end-to-end testing  
-- ✅ CI/CD QA integration and release control  
+### 🧩 Focus Areas
+- Backend & API validation (REST/SOAP)
+- Web & Mobile testing (iOS/Android)
+- Microservice integrations, async flows, data consistency
+- Regression and end-to-end testing
+- CI/CD QA integration and release control
 
-</td>
-<td width="50%" valign="top">
+---
 
-### Toolbox (Core)
-**API:** Postman · Swagger · SoapUI  
-**Async:** Kafka · Camunda BPM · RabbitMQ  
-**DB:** PostgreSQL (SELECT/JOIN/agg) · DBeaver  
-**Web/Mobile:** DevTools · Firebase App · TestFlight  
-**Observability:** Kibana · Sentry · Charles  
-**Process:** GitLab CI/CD · Docker · Zephyr · Jira · Confluence · Allure Test Ops  
-**Automation (in progress):** Python + Pytest
+### 💼 Core Skills & Tools
+**Backend & Integration:** Postman, Swagger, SoapUI  
+**Async / Messaging:** Kafka, Camunda BPM, RabbitMQ  
+**Databases:** PostgreSQL (SELECT / JOIN / aggregates), DBeaver  
+**Web & Mobile:** Chrome DevTools, Firebase App, TestFlight  
+**Debug & Observability:** Kibana, Sentry, Charles Proxy  
+**Process & CI/CD:** GitLab CI/CD, Docker, Zephyr, Jira, Confluence, Allure Test Ops, Scrum  
+**Automation (in progress):** Python + Pytest — building automation layer for key regression and integration scenarios  
 
-</td>
-</tr>
-</table>
+---
 
-<details>
-  <summary><b>Why this stack?</b> (коротко)</summary>
-  <br>
-  • Kafka/Camunda покрывают события и оркестрации, <i>где баги живут между сервисами</i>.<br>
-  • Kibana/Sentry/Charles дают трассировку причин → меньше “симптомных” фиксов.<br>
-  • Pytest закрывает быстрый smoke/regression на API-уровне прямо в CI.
-</details>
+### 🧠 Work Approach
+- Build test coverage around real business flows, not abstract checklists  
+- Trace defects to root causes via logs and cross-service events  
+- Treat backend, web, and mobile as a single integrated ecosystem  
+- Balance reliability, reproducibility, and developer feedback speed  
 
-<!-- divider -->
-<img src="https://github.com/saadeghi/saadeghi/blob/master/dots.svg" width="100%" alt="divider" />
+---
 
-## 🧠 Work Approach (Terminal view)
+### 🌎 Work Preferences
+Remote-first mindset · Open to relocation 🇳🇱 🇩🇪 🇬🇧 🇨🇦 🇦🇪  
+US Green Card holder · English C2  
 
-```bash
-$ qa run --suite=regression \
-         --services=auth,profile,scoring \
-         --async --ci --env=pre-release
+---
 
-✓ APIs (REST/SOAP): schemas, models, contracts       [pass]
-✓ Async chains (Kafka/Camunda): keys, correlation     [pass]
-✓ Data checks (PostgreSQL): joins, aggregates         [pass]
-✓ Logs & traces (Kibana/Sentry): root cause           [found & fixed]
-→ build status: stable | ready for UAT
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=soulflowwy&show_icons=true&hide_title=true&count_private=true&theme=transparent&hide_border=true&text_color=00FF99&icon_color=00FF99" />
+</p>
+
+---
+
+<p align="center">
+  <i>“Everything is code — quality just makes it visible.”</i>  
+</p>
