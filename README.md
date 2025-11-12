@@ -1,19 +1,34 @@
-<!-- 🌐 MATRIX QA PROFILE - by soulflowwy -->
+<!-- 🌐 MATRIX QA PROFILE - soulflowwy -->
 
-<!-- ===== HEADER SECTION ===== -->
-👋 Hi, I'm Danil — Full-Stack QA Engineer <!-- ===== INTRO ===== -->
-4+ years of experience ensuring quality across backend, web, and mobile layers.  
-Worked on FinTech, AI-driven Compliance, Telemedicine, and high-load B2C platforms —  
+<h1 align="center">👋 Hi, I'm Danil — <span style="color:#00FF99;">Full-Stack QA Engineer</span></h1>
+
+<p align="center">
+  <i>“I see through the interface — I test the system itself.”</i> 🕶️<br>
+  <b>Testing the Matrix for bugs since 2021</b> 👾
+</p>
+
+<p align="center">
+  <a href="https://t.me/soulflowwy">
+    <img src="https://img.shields.io/badge/Telegram-@soulflowwy-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:reznikovmainz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-reznikovmainz@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00FF99&width=460&lines=Backend+%2F+Web+%2F+Mobile+Testing;Quality+is+Architecture;Async+Flows+%26+Microservices;CI%2FCD+Integration+and+Observability" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%" alt="Matrix code animation">
+</p>
+
+---
+
+4+ years of experience ensuring quality across **backend**, **web**, and **mobile** layers.  
+Worked on **FinTech**, **AI-driven Compliance**, **Telemedicine**, and **high-load B2C platforms** —  
 where correctness, data integrity, and user experience directly impact business results.
-
-> *“I see through the interface — I test the system itself.”* 🕶️  
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF99&width=500&lines=Backend+%2F+Web+%2F+Mobile+Testing;Quality+is+Architecture;Testing+the+Matrix+for+Bugs+👾)](https://git.io/typing-svg)
-
-[![Telegram](https://img.shields.io/badge/Telegram-@soulflowwy-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/soulflowwy)
-
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%" alt="Matrix code animation" />
-
 
 ---
 
@@ -39,7 +54,7 @@ where correctness, data integrity, and user experience directly impact business 
 
 ### 🧠 Work Approach
 - Build test coverage around real business flows, not abstract checklists  
-- Trace defects to their root cause via logs and cross-service events  
+- Trace defects to root causes via logs and cross-service events  
 - Treat backend, web, and mobile as a single integrated ecosystem  
 - Balance reliability, reproducibility, and developer feedback speed  
 
@@ -52,15 +67,12 @@ US Green Card holder · English C2
 ---
 
 ### 📊 GitHub Stats
-![Danil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=soulflowwy&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=transparent&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=soulflowwy&show_icons=true&hide_title=true&count_private=true&theme=transparent&hide_border=true&text_color=00FF99&icon_color=00FF99" />
+</p>
 
 ---
 
-### 📫 Contact
-[![Telegram Badge](https://img.shields.io/badge/Telegram-@soulflowwy-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/soulflowwy)
-[![Gmail Badge](https://img.shields.io/badge/Email-reznikovmainz@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:reznikovmainz@gmail.com)
-
----
-
-💬 *Always open to connect, discuss quality engineering, and exchange testing approaches.*  
-🧩 *Everything is code — quality just makes it visible.*
+<p align="center">
+  <i>“Everything is code — quality just makes it visible.”</i>  
+</p>
