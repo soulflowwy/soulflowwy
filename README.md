@@ -27,8 +27,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00FF99&width=460&lines=Backend+%2F+Web+%2F+Mobile+Testing;Quality+is+Architecture;Async+Flows+%26+Microservices;CI%2FCD+Integration+and+Observability" alt="Typing SVG" />
 </p>
 
-<!-- 🔎 EXPERIENCE SNAPSHOT (glass + neon) -->
-<a id="experience"></a>
+<!-- 💎 PROFESSIONAL EXPERIENCE BLOCK -->
 <div align="center"
      style="background: rgba(0, 0, 0, 0.55);
             backdrop-filter: blur(4px);
@@ -38,7 +37,7 @@
             margin: 22px auto 26px auto;
             max-width: 860px;">
   <h3 style="color:#00FF99; margin: 0 0 8px 0; font-weight:700; letter-spacing: .3px;">
-    Experience Snapshot
+    Professional Overview
   </h3>
 
   <p style="color:#E6FFE6; font-size: 15.5px; line-height: 1.65; margin: 0;">
