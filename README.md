@@ -6,10 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF99&width=500&lines=Backend+%2F+Web+%2F+Mobile+Testing;Quality+is+Architecture;Testing+the+Matrix+for+Bugs+👾)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=soulflowwy&label=Profile%20views&color=00FF99&style=flat)
-![GitHub followers](https://img.shields.io/github/followers/soulflowwy?color=00FF99&style=flat)
-![GitHub stars](https://img.shields.io/github/stars/soulflowwy?color=00FF99&style=flat)
-
 [![Telegram](https://img.shields.io/badge/Telegram-@soulflowwy-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/soulflowwy)
 
 <img src="https://i.imgur.com/6n6k2wY.gif" width="100%" alt="Matrix divider">
