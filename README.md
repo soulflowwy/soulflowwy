@@ -1,7 +1,11 @@
 <!-- 🌐 MATRIX QA PROFILE - by soulflowwy -->
 
 <!-- ===== HEADER SECTION ===== -->
-👋 Hi, I'm Danil — Full-Stack QA Engineer with 4+ years of expirience
+👋 Hi, I'm Danil — Full-Stack QA Engineer <!-- ===== INTRO ===== -->
+4+ years of experience ensuring quality across backend, web, and mobile layers.  
+Worked on FinTech, AI-driven Compliance, Telemedicine, and high-load B2C platforms —  
+where correctness, data integrity, and user experience directly impact business results.
+
 > *“I see through the interface — I test the system itself.”* 🕶️  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF99&width=500&lines=Backend+%2F+Web+%2F+Mobile+Testing;Quality+is+Architecture;Testing+the+Matrix+for+Bugs+👾)](https://git.io/typing-svg)
@@ -10,13 +14,6 @@
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%" alt="Matrix code animation" />
 
-
----
-
-<!-- ===== INTRO ===== -->
-4+ years of experience ensuring quality across backend, web, and mobile layers.  
-Worked on FinTech, AI-driven Compliance, Telemedicine, and high-load B2C platforms —  
-where correctness, data integrity, and user experience directly impact business results.
 
 ---
 
