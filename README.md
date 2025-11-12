@@ -1,4 +1,5 @@
 👋 Hi, I'm Danil — Full-Stack QA Engineer  
+> *“I see through the interface — I test the system itself.”* 🕶️  
 4+ years of experience ensuring quality across backend, web, and mobile layers.
 
 Worked on FinTech, AI-driven Compliance, Telemedicine, and high-load B2C platforms — where correctness, data integrity, and user experience directly impact business results.
@@ -14,7 +15,7 @@ Worked on FinTech, AI-driven Compliance, Telemedicine, and high-load B2C platfor
 
 ---
 
-### 🧰 Core Skills & Tools
+### 💼 Core Skills & Tools
 **Backend & Integration:** Postman, Swagger, SoapUI  
 **Async / Messaging:** Kafka, Camunda BPM, RabbitMQ  
 **Databases:** PostgreSQL (SELECT / JOIN / aggregates), DBeaver  
@@ -33,13 +34,22 @@ Worked on FinTech, AI-driven Compliance, Telemedicine, and high-load B2C platfor
 
 ---
 
-### 🌍 Work Preferences
+### 🌎 Work Preferences
 Remote-first mindset · Open to relocation 🇳🇱 🇩🇪 🇬🇧 🇨🇦 🇦🇪  
 US Green Card holder · English C2  
 
 ---
 
-💬 *Always open to connect, discuss quality engineering, and exchange testing approaches.*
-### 📬 Contact
+### 📊 GitHub Stats
+![Danil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=soulflowwy&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=transparent&hide_border=true)
+
+---
+
+### 📫 Contact
 [![Telegram Badge](https://img.shields.io/badge/Telegram-@soulflowwy-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/soulflowwy)
 [![Gmail Badge](https://img.shields.io/badge/Email-reznikovmainz@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:reznikovmainz@gmail.com)
+
+---
+
+💬 *Always open to connect, discuss quality engineering, and exchange testing approaches.  
+Everything is code — quality just makes it visible.*
