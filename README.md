@@ -40,3 +40,5 @@ US Green Card holder · English C2
 ---
 
 💬 *Always open to connect, discuss quality engineering, and exchange testing approaches.*
+### 📬 Contact
+[![Telegram Badge](https://img.shields.io/badge/Telegram-@soulflowwy-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/soulflowwy)
