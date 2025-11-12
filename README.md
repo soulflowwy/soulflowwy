@@ -9,10 +9,10 @@
 
 <p align="center">
   <a href="https://t.me/soulflowwy">
-    <img src="https://img.shields.io/badge/Telegram-@soulflowwy-00FF99?style=for-the-badge&logo=telegram&logoColor=black" />
+    <img src="https://img.shields.io/badge/Telegram-@soulflowwy-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="mailto:reznikovmainz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-reznikovmainz@gmail.com-00FF99?style=for-the-badge&logo=gmail&logoColor=black" />
+    <img src="https://img.shields.io/badge/Gmail-reznikovmainz@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
