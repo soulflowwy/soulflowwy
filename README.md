@@ -1,8 +1,25 @@
+<!-- 🌐 MATRIX QA PROFILE - by soulflowwy -->
+
+<!-- ===== HEADER SECTION ===== -->
 👋 Hi, I'm Danil — Full-Stack QA Engineer  
 > *“I see through the interface — I test the system itself.”* 🕶️  
-4+ years of experience ensuring quality across backend, web, and mobile layers.
 
-Worked on FinTech, AI-driven Compliance, Telemedicine, and high-load B2C platforms — where correctness, data integrity, and user experience directly impact business results.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF99&width=500&lines=Backend+%2F+Web+%2F+Mobile+Testing;Quality+is+Architecture;Testing+the+Matrix+for+Bugs+👾)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=soulflowwy&label=Profile%20views&color=00FF99&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/soulflowwy?color=00FF99&style=flat)
+![GitHub stars](https://img.shields.io/github/stars/soulflowwy?color=00FF99&style=flat)
+
+[![Telegram](https://img.shields.io/badge/Telegram-@soulflowwy-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/soulflowwy)
+
+<img src="https://i.imgur.com/6n6k2wY.gif" width="100%" alt="Matrix divider">
+
+---
+
+<!-- ===== INTRO ===== -->
+4+ years of experience ensuring quality across backend, web, and mobile layers.  
+Worked on FinTech, AI-driven Compliance, Telemedicine, and high-load B2C platforms —  
+where correctness, data integrity, and user experience directly impact business results.
 
 ---
 
@@ -22,7 +39,7 @@ Worked on FinTech, AI-driven Compliance, Telemedicine, and high-load B2C platfor
 **Web & Mobile:** Chrome DevTools, Firebase App, TestFlight  
 **Debug & Observability:** Kibana, Sentry, Charles Proxy  
 **Process & CI/CD:** GitLab CI/CD, Docker, Zephyr, Jira, Confluence, Allure Test Ops, Scrum  
-**Automation (in progress):** Python + Pytest — building automation layer for key regression and integration scenarios
+**Automation (in progress):** Python + Pytest — building automation layer for key regression and integration scenarios  
 
 ---
 
@@ -51,5 +68,5 @@ US Green Card holder · English C2
 
 ---
 
-💬 *Always open to connect, discuss quality engineering, and exchange testing approaches.  
-Everything is code — quality just makes it visible.*
+💬 *Always open to connect, discuss quality engineering, and exchange testing approaches.*  
+🧩 *Everything is code — quality just makes it visible.*
