@@ -32,7 +32,10 @@
   <img src="./matrix.svg" width="100%" alt="Matrix rain animation">
 </p>
 
-<hr style="border: none; height: 1px; background: linear-gradient(90deg, #00FF99 0%, #00CC77 100%);">
+<!-- 🌐 Neon Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF99&height=2&section=footer&reversal=true"/>
+</p>
 
 <p align="center" style="color:#00FF99;">
 4+ years of experience ensuring quality across <b>backend</b>, <b>web</b>, and <b>mobile</b> layers.<br>
@@ -40,7 +43,9 @@ Worked on <b>FinTech</b>, <b>AI-driven Compliance</b>, <b>Telemedicine</b>, and 
 where correctness, data integrity, and user experience directly impact business results.
 </p>
 
-<hr style="border: none; height: 1px; background: linear-gradient(90deg, #00FF99 0%, #00CC77 100%);">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF99&height=2&section=footer&reversal=true"/>
+</p>
 
 ### 🧩 <span style="color:#00FF99;">Focus Areas</span>
 - Backend & API validation (REST/SOAP)
@@ -49,7 +54,9 @@ where correctness, data integrity, and user experience directly impact business 
 - Regression and end-to-end testing
 - CI/CD QA integration and release control
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF99&height=2&section=footer&reversal=true"/>
+</p>
 
 ### 💼 <span style="color:#00FF99;">Core Skills & Tools</span>
 **Backend & Integration:** Postman, Swagger, SoapUI  
@@ -60,7 +67,9 @@ where correctness, data integrity, and user experience directly impact business 
 **Process & CI/CD:** GitLab CI/CD, Docker, Zephyr, Jira, Confluence, Allure Test Ops, Scrum  
 **Automation (in progress):** Python + Pytest — building automation layer for key regression and integration scenarios  
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF99&height=2&section=footer&reversal=true"/>
+</p>
 
 ### 🧠 <span style="color:#00FF99;">Work Approach</span>
 - 🧩 Build test coverage around real business flows, not abstract checklists  
@@ -68,13 +77,17 @@ where correctness, data integrity, and user experience directly impact business 
 - 🌐 Treat backend, web, and mobile as a single integrated ecosystem  
 - ⚖️ Balance reliability, reproducibility, and developer feedback speed  
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF99&height=2&section=footer&reversal=true"/>
+</p>
 
 ### 🌎 <span style="color:#00FF99;">Work Preferences</span>
 Remote-first mindset · Open to relocation 🇳🇱 🇩🇪 🇬🇧 🇨🇦 🇦🇪  
 US Green Card holder · English C2  
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF99&height=2&section=footer&reversal=true"/>
+</p>
 
 <!-- 💀 Matrix Rain Footer -->
 <p align="center">
