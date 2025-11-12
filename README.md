@@ -1,3 +1,32 @@
+<!-- 🌐 MATRIX QA PROFILE - soulflowwy -->
+
+<h1 align="center" style="color:#00FF99;">👋 Hi, I'm Danil — <span style="color:#00FF99;">Full-Stack QA Engineer</span></h1>
+
+<p align="center" style="color:#00FF99;">
+  <i>“I see through the interface — I test the system itself.”</i> 🕶️<br>
+  <b>Testing the Matrix for bugs since 2021</b> 👾
+</p>
+
+<p align="center">
+  <a href="https://t.me/soulflowwy">
+    <img src="https://img.shields.io/badge/Telegram-@soulflowwy-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:reznikovmainz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-reznikovmainz@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<!-- 🐍 Snake animation -->
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"
+       width="100%" alt="Matrix snake animation">
+</p>
+
+<!-- 🧠 Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00FF99&width=460&lines=Backend+%2F+Web+%2F+Mobile+Testing;Quality+is+Architecture;Async+Flows+%26+Microservices;CI%2FCD+Integration+and+Observability" alt="Typing SVG" />
+</p>
+
 <!-- 🔎 EXPERIENCE SNAPSHOT (glass + neon) -->
 <a id="experience"></a>
 <div align="center"
@@ -41,7 +70,67 @@
   </div>
 </div>
 
-<!-- тонкая неоновая линия для отделения от следующей анимации -->
 <p align="center" style="margin:0 0 8px 0;">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF99&height=2&section=footer&reversal=true"/>
+</p>
+
+<!-- 💾 Matrix Rain SVG -->
+<p align="center">
+  <img src="./matrix.svg" width="100%" alt="Matrix rain animation">
+</p>
+
+---
+
+### 🧩 <span style="color:#00FF99;">Focus Areas</span>
+- Backend & API validation (REST/SOAP)
+- Web & Mobile testing (iOS/Android)
+- Microservice integrations, async flows, data consistency
+- Regression and end-to-end testing
+- CI/CD QA integration and release control
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF99&height=2&section=footer&reversal=true"/>
+</p>
+
+### 💼 <span style="color:#00FF99;">Core Skills & Tools</span>
+**Backend & Integration:** Postman, Swagger, SoapUI  
+**Async / Messaging:** Kafka, Camunda BPM, RabbitMQ  
+**Databases:** PostgreSQL (SELECT / JOIN / aggregates), DBeaver  
+**Web & Mobile:** Chrome DevTools, Firebase App, TestFlight  
+**Debug & Observability:** Kibana, Sentry, Charles Proxy  
+**Process & CI/CD:** GitLab CI/CD, Docker, Zephyr, Jira, Confluence, Allure Test Ops, Scrum  
+**Automation (in progress):** Python + Pytest — building automation layer for key regression and integration scenarios  
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF99&height=2&section=footer&reversal=true"/>
+</p>
+
+### 🧠 <span style="color:#00FF99;">Work Approach</span>
+- 🧩 Build test coverage around real business flows, not abstract checklists  
+- 🕵️‍♂️ Trace defects to root causes via logs and cross-service events  
+- 🌐 Treat backend, web, and mobile as a single integrated ecosystem  
+- ⚖️ Balance reliability, reproducibility, and developer feedback speed  
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF99&height=2&section=footer&reversal=true"/>
+</p>
+
+### 🌎 <span style="color:#00FF99;">Work Preferences</span>
+Remote-first mindset · Open to relocation 🇳🇱 🇩🇪 🇬🇧 🇨🇦 🇦🇪  
+US Green Card holder · English C2  
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF99&height=2&section=footer&reversal=true"/>
+</p>
+
+<!-- 💀 Matrix Rain Footer -->
+<p align="center">
+  <img src="./matrix.svg" width="100%" alt="Matrix rain footer animation">
+</p>
+
+<p align="center" style="color:#00FF99; font-style: italic;">
+  “Everything is code — quality just makes it visible.”<br><br>
+  <code style="color:#00FF99; background:#000; border:1px solid #00FF99; padding:5px 10px; border-radius:6px;">
+  $ echo "System stable. All tests passed ✅"
+  </code>
 </p>
