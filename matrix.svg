@@ -1,0 +1,72 @@
+<!-- matrix.svg  — lightweight Matrix rain (pure SVG, no JS) -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" width="100%" height="220" preserveAspectRatio="xMidYMid slice">
+  <style>
+    @keyframes fall {
+      0%   { transform: translateY(-240px); opacity: 0.0; }
+      10%  { opacity: 0.95; }
+      100% { transform: translateY(260px); opacity: 0.25; }
+    }
+    text {
+      fill: #00FF99;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, "Courier New", monospace;
+      font-size: 16px;
+      letter-spacing: 2px;
+    }
+    .col { animation: fall var(--dur) linear infinite; animation-delay: var(--delay); }
+  </style>
+
+  <!-- Helper to make a vertical stream via tspans -->
+  <defs>
+    <text id="s1">
+      <tspan x="0" dy="0">10 11 01 10 01 10</tspan>
+      <tspan x="0" dy="20">01 10 11 00 10 01</tspan>
+      <tspan x="0" dy="20">11 00 10 11 01 10</tspan>
+      <tspan x="0" dy="20">00 10 01 10 11 00</tspan>
+      <tspan x="0" dy="20">10 11 00 10 01 10</tspan>
+      <tspan x="0" dy="20">01 10 11 00 10 11</tspan>
+      <tspan x="0" dy="20">11 01 10 00 11 01</tspan>
+      <tspan x="0" dy="20">00 10 01 10 11 00</tspan>
+      <tspan x="0" dy="20">10 11 01 10 01 10</tspan>
+      <tspan x="0" dy="20">01 10 11 00 10 01</tspan>
+      <tspan x="0" dy="20">11 00 10 11 01 10</tspan>
+      <tspan x="0" dy="20">00 10 01 10 11 00</tspan>
+    </text>
+    <text id="s2">
+      <tspan x="0" dy="0">A7 F3 C9 E2 B5 D1</tspan>
+      <tspan x="0" dy="20">D4 9A 6F 1C 8B 0E</tspan>
+      <tspan x="0" dy="20">3D 7E 2A 5C 9F 1B</tspan>
+      <tspan x="0" dy="20">6A 0D 4F 8E 2C 7B</tspan>
+      <tspan x="0" dy="20">1F 3A 5D 9C 0E 6B</tspan>
+      <tspan x="0" dy="20">7A 2D 4E 8F 1C 9B</tspan>
+      <tspan x="0" dy="20">0F 6A 3C 7D 2E 5B</tspan>
+      <tspan x="0" dy="20">9E 1A 4D 8C 0B 6F</tspan>
+      <tspan x="0" dy="20">2C 7A 5E 1F 3B 9D</tspan>
+      <tspan x="0" dy="20">8E 0D 6C 2F 7B 4A</tspan>
+      <tspan x="0" dy="20">1C 9F 3E 5A 0B 6D</tspan>
+      <tspan x="0" dy="20">7C 2A 8F 4E 1D 9B</tspan>
+    </text>
+  </defs>
+
+  <!-- Columns (different x, duration, delay) -->
+  <!-- Feel free to duplicate/adjust for denser rain -->
+  <g class="col" style="--dur:6.5s; --delay:-0.2s; transform: translateY(-240px);"><use href="#s1" x="30"/></g>
+  <g class="col" style="--dur:7.2s; --delay:-1.0s; transform: translateY(-240px);"><use href="#s2" x="90"/></g>
+  <g class="col" style="--dur:5.8s; --delay:-0.6s; transform: translateY(-240px);"><use href="#s1" x="150"/></g>
+  <g class="col" style="--dur:6.2s; --delay:-1.4s; transform: translateY(-240px);"><use href="#s2" x="210"/></g>
+  <g class="col" style="--dur:7.4s; --delay:-0.8s; transform: translateY(-240px);"><use href="#s1" x="270"/></g>
+  <g class="col" style="--dur:6.0s; --delay:-1.6s; transform: translateY(-240px);"><use href="#s2" x="330"/></g>
+  <g class="col" style="--dur:7.0s; --delay:-0.3s; transform: translateY(-240px);"><use href="#s1" x="390"/></g>
+  <g class="col" style="--dur:6.6s; --delay:-1.1s; transform: translateY(-240px);"><use href="#s2" x="450"/></g>
+  <g class="col" style="--dur:5.9s; --delay:-0.9s; transform: translateY(-240px);"><use href="#s1" x="510"/></g>
+  <g class="col" style="--dur:6.7s; --delay:-1.7s; transform: translateY(-240px);"><use href="#s2" x="570"/></g>
+  <g class="col" style="--dur:7.3s; --delay:-0.5s; transform: translateY(-240px);"><use href="#s1" x="630"/></g>
+  <g class="col" style="--dur:6.1s; --delay:-1.3s; transform: translateY(-240px);"><use href="#s2" x="690"/></g>
+  <g class="col" style="--dur:6.9s; --delay:-0.7s; transform: translateY(-240px);"><use href="#s1" x="750"/></g>
+  <g class="col" style="--dur:7.1s; --delay:-1.5s; transform: translateY(-240px);"><use href="#s2" x="810"/></g>
+  <g class="col" style="--dur:6.3s; --delay:-0.4s; transform: translateY(-240px);"><use href="#s1" x="870"/></g>
+  <g class="col" style="--dur:7.6s; --delay:-1.2s; transform: translateY(-240px);"><use href="#s2" x="930"/></g>
+  <g class="col" style="--dur:6.4s; --delay:-0.1s; transform: translateY(-240px);"><use href="#s1" x="990"/></g>
+  <g class="col" style="--dur:7.8s; --delay:-1.8s; transform: translateY(-240px);"><use href="#s2" x="1050"/></g>
+  <g class="col" style="--dur:6.0s; --delay:-0.9s; transform: translateY(-240px);"><use href="#s1" x="1110"/></g>
+  <g class="col" style="--dur:7.2s; --delay:-0.6s; transform: translateY(-240px);"><use href="#s2" x="1170"/></g>
+</svg>
