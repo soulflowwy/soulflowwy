@@ -20,13 +20,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00FF99&width=460&lines=Backend+%2F+Web+%2F+Mobile+Testing;Quality+is+Architecture;Async+Flows+%26+Microservices;CI%2FCD+Integration+and+Observability" alt="Typing SVG" />
 </p>
 
+<!-- MATRIX ANIMATION -->
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%" alt="Matrix code animation">
+  <img src="https://raw.githubusercontent.com/saadeghi/files/main/matrix.svg" width="80%" alt="Matrix animation" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF99&height=2&section=footer&animation=fadeIn" width="80%" alt="divider"/>
-</p>
+---
 
 4+ years of experience ensuring quality across **backend**, **web**, and **mobile** layers.  
 Worked on **FinTech**, **AI-driven Compliance**, **Telemedicine**, and **high-load B2C platforms** —  
@@ -73,15 +72,6 @@ where correctness, data integrity, and user experience directly impact business 
 ### 🌎 Work Preferences
 Remote-first mindset · Open to relocation 🇳🇱 🇩🇪 🇬🇧 🇨🇦 🇦🇪  
 US Green Card holder · English C2  
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF99&height=2&section=footer&animation=fadeIn" width="80%" alt="divider"/>
-</p>
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soulflowwy&show_icons=true&hide_title=true&count_private=true&theme=transparent&hide_border=true&text_color=00FF99&icon_color=00FF99" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF99&height=2&section=footer&animation=fadeIn" width="80%" alt="divider"/>
