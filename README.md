@@ -16,20 +16,20 @@
   </a>
 </p>
 
-<!-- 🐍 Animated Snake -->
+<!-- 🐍 Snake animation -->
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"
        width="100%" alt="Matrix snake animation">
 </p>
 
-<!-- 🧠 Typing Animation -->
+<!-- 🧠 Typing animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00FF99&width=460&lines=Backend+%2F+Web+%2F+Mobile+Testing;Quality+is+Architecture;Async+Flows+%26+Microservices;CI%2FCD+Integration+and+Observability" alt="Typing SVG" />
 </p>
 
-<!-- 💾 Matrix Rain -->
+<!-- 💾 Matrix Rain SVG (WORKING) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif"
+  <img src="https://raw.githubusercontent.com/AbhishekSuresh2/AbhishekSuresh2/master/matrix.svg"
        width="100%" alt="Matrix rain animation">
 </p>
 
@@ -77,7 +77,7 @@ US Green Card holder · English C2
 
 <!-- 💀 Matrix Rain Footer -->
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif"
+  <img src="https://raw.githubusercontent.com/AbhishekSuresh2/AbhishekSuresh2/master/matrix.svg"
        width="100%" alt="Matrix rain footer animation">
 </p>
 
