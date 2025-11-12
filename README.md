@@ -1,29 +1,42 @@
-### 👋 Hi, I'm Danil — Fullstack QA Engineer
+👋 Hi, I'm Danil — Full-Stack QA Engineer  
+4+ years of experience ensuring quality across backend, web, and mobile layers.
 
-4+ years in backend-heavy systems: fintech, AI-driven compliance, telemedicine, and high-load B2C platforms.  
-Focus on **quality in distributed architectures:** backend, APIs, async flows, messaging, and data consistency.
-
-### 🔧 Core Skills & Tools
-- **Backend & Integration Testing:** REST (Postman, Swagger), SOAP (SoapUI)
-- **Async / Data Pipelines:** Kafka, RabbitMQ
-- **Databases:** PostgreSQL (SELECT / JOIN / aggregates), DBeaver
-- **Debug & Observability:** Kibana, Sentry, Charles, DevTools
-- **Web & Mobile Testing:** Chrome DevTools, Firebase App, TestFlight
-- **CI/CD & Teamwork:** GitLab, Confluence, Jira, Zephyr, Scrum
-
-### 🧠 Work Approach
-- Build **test coverage around real business processes**, not just cases-on-paper
-- Trace issues to the **exact cause** using logs & service-to-service event chains
-- Treat web, mobile, and backend as a **single integrated system**
-
-### ⚙️ Currently Learning
-**Python + Pytest** — building a practical automation layer to speed up regression testing and reinforce critical flows.
-
-### 🌍 Work Preferences
-- Remote-first mindset  
-- English — **C2**
+Worked on FinTech, AI-driven Compliance, Telemedicine, and high-load B2C platforms — where correctness, data integrity, and user experience directly impact business results.
 
 ---
 
-> *"Quality for me = consistency + predictability + clarity of process."*
+### 🧩 Focus Areas
+- Backend & API validation (REST/SOAP)
+- Web & Mobile testing (iOS/Android)
+- Microservice integrations, async flows, data consistency
+- Regression and end-to-end testing
+- CI/CD QA integration and release control
 
+---
+
+### 🧰 Core Skills & Tools
+**Backend & Integration:** Postman, Swagger, SoapUI  
+**Async / Messaging:** Kafka, Camunda BPM, RabbitMQ  
+**Databases:** PostgreSQL (SELECT / JOIN / aggregates), DBeaver  
+**Web & Mobile:** Chrome DevTools, Firebase App, TestFlight  
+**Debug & Observability:** Kibana, Sentry, Charles Proxy  
+**Process & CI/CD:** GitLab CI/CD, Docker, Zephyr, Jira, Confluence, Allure Test Ops, Scrum  
+**Automation (in progress):** Python + Pytest — building automation layer for key regression and integration scenarios
+
+---
+
+### 🧠 Work Approach
+- Build test coverage around real business flows, not abstract checklists  
+- Trace defects to their root cause via logs and cross-service events  
+- Treat backend, web, and mobile as a single integrated ecosystem  
+- Balance reliability, reproducibility, and developer feedback speed  
+
+---
+
+### 🌍 Work Preferences
+Remote-first mindset · Open to relocation 🇳🇱 🇩🇪 🇬🇧 🇨🇦 🇦🇪  
+US Green Card holder · English C2  
+
+---
+
+💬 *Always open to connect, discuss quality engineering, and exchange testing approaches.*
