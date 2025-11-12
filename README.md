@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Danil — QA Engineer
+### 👋 Hi, I'm Danil — Fullstack QA Engineer
 
 4+ years in backend-heavy systems: fintech, AI-driven compliance, telemedicine, and high-load B2C platforms.  
 Focus on **quality in distributed architectures:** backend, APIs, async flows, messaging, and data consistency.
