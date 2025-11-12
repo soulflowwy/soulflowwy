@@ -1,18 +1,18 @@
 <!-- 🌐 MATRIX QA PROFILE - soulflowwy -->
 
-<h1 align="center">👋 Hi, I'm Danil — <span style="color:#00FF99;">Full-Stack QA Engineer</span></h1>
+<h1 align="center" style="color:#00FF99;">👋 Hi, I'm Danil — <span style="color:#00FF99;">Full-Stack QA Engineer</span></h1>
 
-<p align="center">
+<p align="center" style="color:#00FF99;">
   <i>“I see through the interface — I test the system itself.”</i> 🕶️<br>
   <b>Testing the Matrix for bugs since 2021</b> 👾
 </p>
 
 <p align="center">
   <a href="https://t.me/soulflowwy">
-    <img src="https://img.shields.io/badge/Telegram-@soulflowwy-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-@soulflowwy-00FF99?style=for-the-badge&logo=telegram&logoColor=black" />
   </a>
   <a href="mailto:reznikovmainz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-reznikovmainz@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-reznikovmainz@gmail.com-00FF99?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
 </p>
 
@@ -27,20 +27,22 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00FF99&width=460&lines=Backend+%2F+Web+%2F+Mobile+Testing;Quality+is+Architecture;Async+Flows+%26+Microservices;CI%2FCD+Integration+and+Observability" alt="Typing SVG" />
 </p>
 
-<!-- 💾 Matrix Rain SVG (WORKING) -->
+<!-- 💾 Matrix Rain SVG -->
 <p align="center">
   <img src="./matrix.svg" width="100%" alt="Matrix rain animation">
 </p>
 
----
+<hr style="border: none; height: 1px; background: linear-gradient(90deg, #00FF99 0%, #00CC77 100%);">
 
-4+ years of experience ensuring quality across **backend**, **web**, and **mobile** layers.  
-Worked on **FinTech**, **AI-driven Compliance**, **Telemedicine**, and **high-load B2C platforms** —  
+<p align="center" style="color:#00FF99;">
+4+ years of experience ensuring quality across <b>backend</b>, <b>web</b>, and <b>mobile</b> layers.<br>
+Worked on <b>FinTech</b>, <b>AI-driven Compliance</b>, <b>Telemedicine</b>, and <b>high-load B2C platforms</b> —<br>
 where correctness, data integrity, and user experience directly impact business results.
+</p>
 
----
+<hr style="border: none; height: 1px; background: linear-gradient(90deg, #00FF99 0%, #00CC77 100%);">
 
-### 🧩 Focus Areas
+### 🧩 <span style="color:#00FF99;">Focus Areas</span>
 - Backend & API validation (REST/SOAP)
 - Web & Mobile testing (iOS/Android)
 - Microservice integrations, async flows, data consistency
@@ -49,7 +51,7 @@ where correctness, data integrity, and user experience directly impact business 
 
 ---
 
-### 💼 Core Skills & Tools
+### 💼 <span style="color:#00FF99;">Core Skills & Tools</span>
 **Backend & Integration:** Postman, Swagger, SoapUI  
 **Async / Messaging:** Kafka, Camunda BPM, RabbitMQ  
 **Databases:** PostgreSQL (SELECT / JOIN / aggregates), DBeaver  
@@ -60,7 +62,7 @@ where correctness, data integrity, and user experience directly impact business 
 
 ---
 
-### 🧠 Work Approach
+### 🧠 <span style="color:#00FF99;">Work Approach</span>
 - 🧩 Build test coverage around real business flows, not abstract checklists  
 - 🕵️‍♂️ Trace defects to root causes via logs and cross-service events  
 - 🌐 Treat backend, web, and mobile as a single integrated ecosystem  
@@ -68,7 +70,7 @@ where correctness, data integrity, and user experience directly impact business 
 
 ---
 
-### 🌎 Work Preferences
+### 🌎 <span style="color:#00FF99;">Work Preferences</span>
 Remote-first mindset · Open to relocation 🇳🇱 🇩🇪 🇬🇧 🇨🇦 🇦🇪  
 US Green Card holder · English C2  
 
@@ -79,7 +81,9 @@ US Green Card holder · English C2
   <img src="./matrix.svg" width="100%" alt="Matrix rain footer animation">
 </p>
 
-<p align="center">
-  <i>“Everything is code — quality just makes it visible.”</i><br>
-  <code>$ echo "System stable. All tests passed ✅"</code>
+<p align="center" style="color:#00FF99; font-style: italic;">
+  “Everything is code — quality just makes it visible.”<br><br>
+  <code style="color:#00FF99; background:#000; border:1px solid #00FF99; padding:5px 10px; border-radius:6px;">
+  $ echo "System stable. All tests passed ✅"
+  </code>
 </p>
